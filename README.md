@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Soham Kandhare
 
-<!--
-**sk7797/sk7797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+I'm a recent graduate with a Post Graduate Certificate in Cybersecurity & Threat Management and Cloud Architecture from Seneca College, Toronto. I have a strong interest in cybersecurity, cloud computing, and infrastructure automation.
 
-Here are some ideas to get you started:
+## 🔧 Skills and Tools
+- **Cybersecurity:** Nessus, Burp Suite, OpenVAS, Wireshark, Nmap, Splunk, Nikto, YARA, Volatility
+- **Programming & Scripting:** Python, Bash, PowerShell, Java, SQL
+- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, Ansible
+- **Security Frameworks:** NIST, MITRE ATT&CK, CIS Controls
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- **AI-Powered Phishing Detector:** Streamlit-based tool to detect phishing emails using regex and rule-based logic. [Live App](https://sk7797-ai-phishing-detector.streamlit.app) | [Code](https://github.com/sk7797/ai-phishing-detector)
+- **Automated Vulnerability Assessment:** Built using Nessus, Splunk, and SOAR for enterprise environments.
+- **Task Manager Web App (in progress):** Full-stack Java application with Spring Boot and React.
+
+## 🎓 Certifications
+- CompTIA IT Fundamentals  
+- Certified Secure Computer User (CSCU)  
+- Ethical Hacking Expert  
+- Star Cyber Secure User (SCSU)
+
+## 📫 Contact
+- 📧 Email: sohamk1997@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/skandhare](https://www.linkedin.com/in/skandhare)  
+- 💻 GitHub: [github.com/sk7797](https://github.com/sk7797)
+
