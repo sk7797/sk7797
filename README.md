@@ -12,7 +12,7 @@ I'm a recent graduate with a Post Graduate Certificate in Cybersecurity & Threat
 ## 🛠️ Projects
 - **AI-Powered Phishing Detector:** Streamlit-based tool to detect phishing emails using regex and rule-based logic. [Live App](https://sk7797-ai-phishing-detector.streamlit.app) | [Code](https://github.com/sk7797/ai-phishing-detector)
 - **Automated Vulnerability Assessment:** Built using Nessus, Splunk, and SOAR for enterprise environments.
-- **Task Manager Web App (in progress):** Full-stack Java application with Spring Boot and React.
+- **Fault-Tolerant Multi-Regional Web Application:** Designed and deployed an Azure-based web app infrastructure with load balancers and geo-routing for high availability.
 
 ## 🎓 Certifications
 - CompTIA IT Fundamentals  
