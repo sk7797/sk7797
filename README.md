@@ -21,7 +21,5 @@ I'm a recent graduate with a Post Graduate Certificate in Cybersecurity & Threat
 - Star Cyber Secure User (SCSU)
 
 ## 📫 Contact
-- 📧 Email: sohamk1997@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/skandhare](https://www.linkedin.com/in/skandhare)  
-- 💻 GitHub: [github.com/sk7797](https://github.com/sk7797)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sohamk1997@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/skandhare) [![Website Badge](https://img.shields.io/badge/-Website-000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://sk7797.github.io)
 
