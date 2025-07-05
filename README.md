@@ -10,7 +10,8 @@ I'm a recent graduate with a Post Graduate Certificate in Cybersecurity & Threat
 - **Security Frameworks:** NIST, MITRE ATT&CK, CIS Controls
 
 ## 🛠️ Projects
-- **AI-Powered Phishing Detector:** Streamlit-based tool to detect phishing emails using regex and rule-based logic. [Live App](https://sk7797-ai-phishing-detector.streamlit.app) | [Code](https://github.com/sk7797/ai-phishing-detector)
+- **AI-Powered Phishing Detector:** Streamlit-based tool to detect phishing emails using regex and rule-based logic. [![App Badge](https://img.shields.io/badge/-Streamlit%20App-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)](https://sk7797-ai-phishing-detector.streamlit.app/)
+ | [![Code Badge](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/sk7797/ai-phishing-detector)
 - **Automated Vulnerability Assessment:** Built using Nessus, Splunk, and SOAR for enterprise environments.
 - **Fault-Tolerant Multi-Regional Web Application:** Designed and deployed an Azure-based web app infrastructure with load balancers and geo-routing for high availability.
 
